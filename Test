@@ -6,5 +6,9 @@ CreatePR
 <<<<<<< HEAD
 Commit with message
 Commit
+<<<<<<< HEAD
 Test
 Test
+=======
+Master has changed
+>>>>>>> origin/master
