@@ -3,4 +3,8 @@ Master
 Shame
 Conflict
 CreatePR
+<<<<<<< HEAD
 Commit with message
+=======
+Commit
+>>>>>>> origin/master
